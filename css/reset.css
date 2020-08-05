@@ -493,15 +493,14 @@ footer .m_banquan{
 	.header_bottom .m_head_nav{
 		display: block;
 		position: absolute;
-		width: 33px;
-		height: 33px;
+		width: 8.8vw;
+		height: 8.8vw;
 		right: 12px;
-		top: 0px;
-		line-height: 66px;
+		top: 1.6vw;
 	}
 	.m_head_nav img{
-		width: 33px;
-		height: 33px;
+		width: 8.8vw;
+		height: 8.8vw;
 	}
 	.header_bottom .m_head_nav span{
 		width:6vw;
