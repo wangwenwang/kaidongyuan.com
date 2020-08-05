@@ -173,6 +173,11 @@ img.XQ_style{
 	font-size:43pt;
 	margin-top:50px;
 }
+.part-title-2{
+	font-size:43pt;
+	margin-top:50px;
+	margin-bottom: 30px;
+}
 .part-mid-img-kt{
 	margin-top:150px;
 	width:38%;
@@ -239,6 +244,11 @@ img.XQ_style{
 	.part-title-1{
 		font-size:13pt;
 		margin-top:10px;
+	}
+	.part-title-2{
+		font-size:13pt;
+		margin-top:0px;
+		margin-bottom: 1px;
 	}
 	.part-mid-img-kt{
 		margin-top:100px;
