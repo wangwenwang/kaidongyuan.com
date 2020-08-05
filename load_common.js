@@ -69,7 +69,7 @@ function addHtml(bigImg,first,second,third,listData,titleText,titleEnglish,conte
 			'hrefs':'staff.html'
 		}]
 		
-	}else if(arrNameSub == "WarehousingService" || arrNameSub == "DistributionService" || arrNameSub == "WarehouseIntegration" || arrNameSub == "Value-added_logistics_service" || arrNameSub == "CirculationService" || arrNameSub == "VendingMachine"){
+	}else if(arrNameSub == "WarehousingService" || arrNameSub == "DistributionService" || arrNameSub == "WarehouseIntegration" || arrNameSub == "Value-added_logistics_service" || arrNameSub == "CirculationService" || arrNameSub == "system_service" || arrNameSub == "consultation_service"){
 
 		navIconAndFont = [{
 			'icon':'liansuo-cangkuguanli-fenzukucunchaxun',
@@ -93,8 +93,12 @@ function addHtml(bigImg,first,second,third,listData,titleText,titleEnglish,conte
 			'hrefs':'CirculationService.html'
 		},{
 			'icon':'zidongshouhuoji',
-			'font':'自动售货机',
-			'hrefs':'VendingMachine.html'
+			'font':'系统服务',
+			'hrefs':'system_service.html'
+		},{
+			'icon':'zidongshouhuoji',
+			'font':'物流咨询服务',
+			'hrefs':'consultation_service.html'
 		}]
 
 	}else if(arrNameSub == "companyNews" || arrNameSub == "industryNews"){

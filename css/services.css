@@ -165,8 +165,152 @@ img.XQ_style{
 .Wareh_Serv_swiperBtn>div:nth-child(2){
 	right: 7px;
 }
+.part-title{
+	font-size:43pt;
+	margin-top:50px;
+}
+.part-mid-img-kt{
+	margin-top:150px;
+	width:38%;
+}
+.mid-jpg{
+	margin-top:50px;
+}
+.mid-bg{
+	height:450px;
+	margin-top:50px;
+}
+.mid-h-list{
+	font-size:43pt;
+	margin-top:20px;
+	font-weight:normal;
+}
+.item-wildcard{
+	height:220px;
+	margin-top:50px;
+	width:22%;
+}
+.item-img-1{
+	margin-top:15px;
+}
+.mid-text-1-1{
+	margin-top:5px;
+}
+.mid-bottom-d{
+	height:450px;
+	margin-top:50px;
+	font-size:11.5pt;
+}
+.mid-bottom-item{
+	height:220px;
+	margin-top:50px;
+}
+.mid-bottom-item-text{
+	font-size:18pt;
+}
+.mid-bottom-item-text-1-2{
+	margin-top:5px;
+}
+.mid-bottom-item-text-1-3{
+	margin-top:0px;
+}
+.mid-bottom-item-text-1-4{
+	margin-top:5px;
+	margin-left:-2px;
+}
+.bottom-d{
+	padding:40px;
+	margin-top:10px;
+}
+.bottom-img{
+	margin-top:30px;
+}
 
 @media screen and (max-width: 768px){
+
+	.part-title{
+		font-size:13pt;
+		margin-top:0px;
+	}
+	.part-title-1{
+		font-size:13pt;
+		margin-top:10px;
+	}
+	.part-mid-img-kt{
+		margin-top:100px;
+		width:5%;
+	}
+	.mid-jpg{
+		margin-top:0px;
+	}	
+	.mid-bg{
+		height:120px;
+		margin-top:50px;
+	}
+	.mid-h-list{
+		font-size:13pt;
+		margin-top:0px;
+		font-weight:normal;
+	}
+	.item-wildcard{
+		height:78px;
+		margin-top:8px;
+		width:22%;
+	}
+	.item-img-1{
+		margin-top:5px;
+	}
+	.mid-text-1-1{
+		margin-left: -35px;
+		margin-right: -35px;
+		margin-top:-4px;
+		font-size: 8pt;
+		transform: scale(0.47);
+	}
+	.mid-bottom-d{
+		height:140px;
+		margin-top:0px;
+		font-size:8pt;
+	}
+	.mid-bottom-item{
+		height:100px;
+		margin-top:0px;
+	}
+	.mid-bottom-item-text{
+		margin-top: -15px;
+		font-size:8pt;
+		margin-left: -35px;
+		margin-right: -35px;
+		transform: scale(0.75);
+	}
+	.mid-bottom-item-text-1-2{
+		margin-top:-5px;
+		font-size:8pt;
+		margin-left: -62px;
+		margin-right: -65px;
+		transform: scale(0.5);
+	}
+	.mid-bottom-item-text-1-3{
+		margin-top:-8px;
+		font-size:8pt;
+		margin-left: -65px;
+		margin-right: -75px;
+		transform: scale(0.55);
+	}
+	.mid-bottom-item-text-1-4{
+		margin-top:-8px;
+		font-size:8pt;
+		margin-left: -57px;
+		margin-right: -65px;
+		transform: scale(0.55);
+	}
+	.bottom-d{
+		padding:10px 10px 3px 10px;
+		margin-top:7px;
+	}
+	.bottom-img{
+		margin-top:0px;
+	}
 	.Tab{
 		margin-top: 4vw;
 	}

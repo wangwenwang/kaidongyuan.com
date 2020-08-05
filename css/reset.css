@@ -429,7 +429,7 @@ footer .m_banquan{
 	text-indent:2em;
 	line-height: 32px;
 }
-.content img{
+.content img:not(.item-img-1){
 	width: 860px;
 	margin: 10px 0;
 }
@@ -700,7 +700,7 @@ footer .m_banquan{
 		text-indent:2em;
 		line-height: 6.3vw;
 	}
-	.content img{
+	.content img:not(.item-img-1){
 		width: 100%;
 		margin: 10px 0;
 	}
