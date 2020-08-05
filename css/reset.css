@@ -566,7 +566,7 @@ footer .m_banquan{
 	/*头部结束*/
 	/*关于凯东源模块  开始*/
 	.SubpageNavBtn{
-		font-size: 3.4vw;
+		font-size: 3vw;
 		display: block;
 		position: fixed;
 		left: 2vw;
@@ -585,7 +585,7 @@ footer .m_banquan{
 	.SubpageNavBtn>div> a {
 		color: #fff;
 		width: 10vw;
-		padding: 2vw 0;
+		padding: 1vw 0;
 		display: block;
 		text-align: center;
 	}
@@ -596,9 +596,10 @@ footer .m_banquan{
 	}
 	.SubpageNavBtn>div span{
 		display: block;
+		padding: 0 1vw;
 	}
 	.SubpageNavBtn i{
-		font-size: 5vw;
+		font-size: 4.5vw;
 	}
 	.container .about_kdy{
 		/*width:100%;
